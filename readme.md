@@ -1,6 +1,6 @@
 # AI-Recruitment-Tool
 
->full-stack AI tool for fairer candidate–job matching using semantic NLP and bias mitigation.
+> Full Stack AI tool for fairer candidate–job matching using semantic NLP and bias mitigation.
 
 ---
 
