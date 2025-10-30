@@ -1,0 +1,53 @@
+# --- OS / editor ---
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.njsproj
+*.sln
+*.sw?
+
+# --- Logs ---
+logs/
+*.log
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.python-version
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.pyre/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# --- Node / Frontend ---
+node_modules/
+dist/
+dist-ssr/
+*.local
+.next/
+.nuxt/
+.out/
+.vite/
+coverage/
+
+# --- Secrets / env ---
+.env
+.env.*
+
+# --- macOS Python installer dropped in your tree ---
+/Python 3.13/
+
+# --- Optional data rules ---
+# Keep the data folder, but ignore heavyweight raw/outputs; adjust as you like.
+# data/raw/**        # uncomment to ignore big raw data
+# !data/raw/README.md
+# data/outputs/
+# data/tmp/
